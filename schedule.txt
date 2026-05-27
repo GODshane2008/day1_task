@@ -1,4 +1,1 @@
-Monday: Git Basics 
-Tuesday: Branching Practice 
-Wednesday: Github collabration session
-Thursday: GitHub Push 
+Wednesday: Merge Conflict practice session
